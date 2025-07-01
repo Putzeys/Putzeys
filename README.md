@@ -13,7 +13,7 @@
 ---
 
 ### 🔭 Foco atual
-Construindo a <a href="https://prototipeai.com">Prototipae.ai</a>. que é a plataforma para prototipar e validar agentes de IA antes do desenvolvimento.
+Construindo a <a href="https://prototipeai.com">Prototipe.ai</a>. que é a plataforma para prototipar e validar agentes de IA antes do desenvolvimento.
 
 ### 🛠️ Stack &amp; ferramentas
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
